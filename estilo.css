@@ -94,7 +94,7 @@ header nav ul ul a:hover{
     font-size: 60px;
     background-image: linear-gradient(90deg, #ff00c8, #b300ff);
     color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-cli: text;
 }
 
 #banner p{
